@@ -1,24 +1,17 @@
-<<<<<<< HEAD
+
+REPOSITORY "Cross-Flatform Coding"
 
 This repository has 2 branches: 
 
-main (or the branch name I created) contains my code.
+main (or the branch name I created) contains my code (Nguyen Xuan Truong - 22KTMT2 - 106220275)
 
-master1 (or the branch used by other team members) belongs to .tintran21
+master1 (or the branch used by other team members) belongs to .tintran21 (Tran Dai Tin - 22KTMT2 - 106220272)
 
-# app_prototype
+👉 You can view the main source code inside the `lib` directory.
 
-A new Flutter project.
+## References
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+General knowledge and code in this project were referenced from:  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)  
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)  
+- [Flutter online documentation](https://docs.flutter.dev/)
