@@ -14,4 +14,5 @@ master1 (or the branch used by other team members) belongs to .tintran21 (Tran D
 General knowledge and code in this project were referenced from:  
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)  
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)  
-- [Flutter online documentation](https://docs.flutter.dev/)
+- [Flutter online documentation](https://docs.flutter.dev/)  
+- [GeeksforGeeks – Flutter Tutorials](https://www.geeksforgeeks.org/flutter/)
